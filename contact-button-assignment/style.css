@@ -23,6 +23,7 @@ button {
     font-family: "Playfair Display", serif;
     font-weight: 500;
     border-radius: 12px;
+    border:none;
 }
 
 button:hover {
