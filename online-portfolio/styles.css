@@ -33,6 +33,18 @@ h2 {
     }
     #nav {
         background-color:#A5421A;
+        text-align: center;
+    }
+    #nav a {
+        color:#D8CABE;
+        text-decoration:none;
+    }
+    #nav a:hover {
+        color:#D8CABE;
+            text-decoration:underline;
+    }
+    .jobtitle {
+        color:#A5421A;
     }
     
 }
