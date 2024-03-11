@@ -21,13 +21,17 @@ h1 {
     font-size: 30px;
     color:#D8CABE;
       font-family: "League Spartan", sans-serif;
-    
-h2 {
+}
+    h2 {
         font-family: "Libre Baskerville", serif;
         color: #D8CABE;
+        font-style: italic;
     }
-
-}
+    
+    h3 {
+        font-family: "League Spartan", sans-serif;
+        color: #D8CABE;
+    }
     #topper {
         background-color:#222230;
     }
@@ -45,6 +49,13 @@ h2 {
     }
     .jobtitle {
         color:#A5421A;
+    }
+    
+    p {
+        color:#D8CABE;
+    }
+    #sections {
+        background-color:#222230;
     }
     
 }
