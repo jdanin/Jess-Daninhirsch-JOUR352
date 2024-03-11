@@ -1,0 +1,45 @@
+/*
+MY COLOR PALETTE
+Rust - #A5421A
+Navy Bkgd - #222230
+Text Beige - #D8CABE
+Color 4 - #ede7e3
+Color 5 - #ffa62b
+*/
+
+@media {
+
+
+img {
+    width:150%;
+    border-radius:50%;
+    margin:40px;
+}
+
+h1 {
+    margin: 40px 0px 10px 0px;
+    font-size: 30px;
+    color:#D8CABE;
+      font-family: "League Spartan", sans-serif;
+    
+h2 {
+        font-family: "Libre Baskerville", serif;
+        color: #D8CABE;
+    }
+
+}
+    #topper {
+        background-color:#222230;
+    }
+    #nav {
+        background-color:#A5421A;
+    }
+    
+}
+
+@media (min-width:576px) {
+    h1 {
+        margin: 40px 0px 10px 40px;
+        font-size: 70px;
+    }
+}
