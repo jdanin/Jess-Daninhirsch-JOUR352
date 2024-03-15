@@ -4,7 +4,7 @@ Rust - #A5421A
 Navy Bkgd - #222230
 Text Beige - #D8CABE
 Color 4 - #ede7e3
-Color 5 - #ffa62b
+Color 5 - #E7A04D
 */
 
 @media {
@@ -20,12 +20,14 @@ h1 {
     margin: 40px 0px 10px 0px;
     font-size: 30px;
     color:#D8CABE;
-      font-family: "League Spartan", sans-serif;
+    font-family: "League Spartan", sans-serif;
+    text-align: center;
 }
     h2 {
         font-family: "Libre Baskerville", serif;
         color: #D8CABE;
         font-style: italic;
+        text-align: center;
     }
     
     h3 {
@@ -34,30 +36,67 @@ h1 {
     }
     #topper {
         background-color:#222230;
+        text-align: center;
+        height: 650px;
     }
     #nav {
         background-color:#A5421A;
         text-align: center;
+        height: 150px;
     }
     #nav a {
         color:#D8CABE;
         text-decoration:none;
+            font-family: "Montserrat", serif;
+        font-size: 25px
+
     }
     #nav a:hover {
         color:#D8CABE;
             text-decoration:underline;
+        font-family: "Montserrat", serif;
+
     }
     .jobtitle {
-        color:#A5421A;
+        color:#E7A04D;
+        font-family: "Libre Baskerville", serif;
+
     }
     
     p {
         color:#D8CABE;
+                font-family: "Montserrat", sans-serif;
+
+        
     }
     #sections {
         background-color:#222230;
     }
     
+}
+
+button {
+    background-color: #A5421A;
+    color: #D8CABE;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    font-family: "Playfair Display", serif;
+    font-weight: 500;
+    border-radius: 12px;
+    border:none;
+    align-items: center;
+}
+
+div {
+
+}
+
+ul {
+    font-family: "Montserrat", sans-serif;
 }
 
 @media (min-width:576px) {
