@@ -34,6 +34,9 @@ h1 {
     h3 {
         font-family: "League Spartan", sans-serif;
         color: #D8CABE;
+        font-size: 40px;
+        text-decoration: underline;
+        text-decoration-color: #A5421A;
     }
     #topper {
         background-color:#222230;
@@ -45,7 +48,6 @@ h1 {
         
     }
     
-   
 
 .item {
   width: 10em;
