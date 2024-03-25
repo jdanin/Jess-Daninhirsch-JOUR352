@@ -32,8 +32,7 @@ Color 5 - #E7A04D
         font-family: "League Spartan", sans-serif;
         color: #d8cabe;
         font-size: 40px;
-        text-decoration: underline;
-        text-decoration-color: #a5421a;
+        border-bottom: 5px solid#A5421A;
     }
     #topper {
         background-color: #222230;
