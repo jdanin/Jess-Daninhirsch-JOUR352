@@ -1,0 +1,24 @@
+img {
+    width:100%;
+}
+
+#topper {
+    background-image:url(Screenshot%202024-04-22%20at%2011.31.03%E2%80%AFAM.png);
+    background-size:cover;
+    background-position:center;
+    background-color: #F2E3CA;
+}
+
+h1{
+    padding:700px 0px 100px 0px
+}
+
+.container-fluid1 {
+    background-color: #F2E3CA;
+    font-size:13px;
+    text-align:center;
+}
+
+.container-fluid {
+        background-color: #F2E3CA;
+}
