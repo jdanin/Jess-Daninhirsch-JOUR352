@@ -10,15 +10,58 @@ img {
 }
 
 h1{
-    padding:700px 0px 100px 0px
+    padding:70px 0px 700px 0px;
+        font-family: League Gothic, sans-serif;
+        font-style: italic;
+        font-size: 60px
 }
 
 .container-fluid1 {
     background-color: #F2E3CA;
     font-size:13px;
     text-align:center;
+    font-family: Libre Baskerville;
 }
 
 .container-fluid {
         background-color: #F2E3CA;
+        font-family: Libre Baskerville;
+}
+
+h2 {
+    font-family: League Gothic;
+    font-size: 45px
+}
+
+.league-gothic {
+  font-family: "League Gothic", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.pullquote {
+    padding: 10px 10px 10px 10px;
+    background-color: #E9C9BC;
+    border: 3px solid;
+    border-color: #8AA3AC;
+}
+
+.quotemark {
+    font-size: 50px;
+    font-family: Georgia, serif;
+}
+
+@media (min-width:576px){
+        #content{
+        width:100%;
+    }
+}
+
+@media (min-width:992px){
+    #content {
+        width:60%;
+    }
 }
